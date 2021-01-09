@@ -1,1 +1,8 @@
 
+Some Fundamenta questions stated below are asked to find out the result from the data set.
+
+Question #1: What was the best month for sales?
+Question #2: What city sold the most product?
+Question #3: What time should we display advertisements to maximize the likelihood of purchases?
+Question #4: What products are most often sold together?
+Question #5: What product sold the most? Why do you think it did?
