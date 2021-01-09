@@ -1,0 +1,9 @@
+Following steps are followed during the analysis:
+
+1: Merging 12 csvs into a single dataframe
+2: Add a Month column extracted from order date
+3. Cleaning our data
+4. Add a sales column by multiplying quantity and price column
+5. Add a city column with states extracting from the customer address
+6. Plotting the data to get an insight
+7. interpret the result
